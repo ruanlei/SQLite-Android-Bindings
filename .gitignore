@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+/build/
+/sqlite3/build/
+/sqlite3test/build/
+/.gradle/
+/.idea/
+/local.properties
+*.iml
+.externalNativeBuild
